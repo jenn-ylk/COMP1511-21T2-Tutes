@@ -1,1 +1,6 @@
-/(thu|fri)/wk[0-9]*/[^\.]*
+# all files
+*
+# keep those with an extension
+!*.*
+# keep directories
+!*/
