@@ -1,0 +1,17 @@
+// prints out this face:
+// ~ ~
+// 0 0
+//  o
+//  -
+// code by fri15a class 21t2
+
+#include <stdio.h>
+
+int main (void) {
+    printf("~ ~\n");
+    printf("0 0\n");
+    printf(" o\n");
+    printf("\_/\n");
+    
+    return 0;
+}
